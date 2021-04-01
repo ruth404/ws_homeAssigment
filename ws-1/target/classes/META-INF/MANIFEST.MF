@@ -1,0 +1,25 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 15
+Class-Path: libs/jgrapht-io-1.5.1.jar libs/antlr4-runtime-4.8-1.jar libs
+ /commons-text-1.8.jar libs/commons-lang3-3.11.jar libs/spring-boot-star
+ ter-web-2.4.4.jar libs/spring-boot-starter-2.4.4.jar libs/spring-boot-2
+ .4.4.jar libs/spring-boot-autoconfigure-2.4.4.jar libs/spring-boot-star
+ ter-logging-2.4.4.jar libs/logback-classic-1.2.3.jar libs/logback-core-
+ 1.2.3.jar libs/slf4j-api-1.7.30.jar libs/log4j-to-slf4j-2.13.3.jar libs
+ /log4j-api-2.13.3.jar libs/jul-to-slf4j-1.7.30.jar libs/jakarta.annotat
+ ion-api-1.3.5.jar libs/snakeyaml-1.27.jar libs/spring-boot-starter-json
+ -2.4.4.jar libs/jackson-databind-2.11.4.jar libs/jackson-annotations-2.
+ 11.4.jar libs/jackson-core-2.11.4.jar libs/jackson-datatype-jdk8-2.11.4
+ .jar libs/jackson-datatype-jsr310-2.11.4.jar libs/jackson-module-parame
+ ter-names-2.11.4.jar libs/spring-boot-starter-tomcat-2.4.4.jar libs/tom
+ cat-embed-core-9.0.44.jar libs/jakarta.el-3.0.3.jar libs/tomcat-embed-w
+ ebsocket-9.0.44.jar libs/spring-webmvc-5.3.5.jar libs/spring-aop-5.3.5.
+ jar libs/spring-context-5.3.5.jar libs/spring-expression-5.3.5.jar libs
+ /javax.inject-1.jar libs/jgrapht-core-1.5.1.jar libs/jheaps-0.13.jar li
+ bs/json-20210307.jar libs/spring-web-5.3.5.jar libs/spring-beans-5.3.5.
+ jar libs/spring-core-5.3.5.jar libs/spring-jcl-5.3.5.jar
+Implementation-Title: ws-1
+Implementation-Version: 0.0.1-SNAPSHOT
+Main-Class: com.baeldung.executable.ExecutableMavenJar
+Created-By: Maven Integration for Eclipse
+
